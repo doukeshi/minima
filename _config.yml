@@ -24,7 +24,7 @@ author:
   email: ""
 description: >- # this means to ignore newlines until "baseurl:"
   凪の帯是分布在伟大航道两侧的海域，没有气流，也没有海流，是个永远风平浪静的海域。
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/minima" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 minima:
